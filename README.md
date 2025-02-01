@@ -15,3 +15,5 @@
 **DESCRIPTION**: Create a simple Online Learning Plateform using HTML, CSS and JavaScript.
 
 **OUTPUT OF TASK**:
+
+![Image](https://github.com/user-attachments/assets/86c1c63c-ad10-42ff-bbbf-5f98a36217c8)
